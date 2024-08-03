@@ -9,10 +9,20 @@
     "web": "expo start --web"
   },
   "dependencies": {
+    "@expo/metro-runtime": "~3.2.1",
     "expo": "~51.0.24",
+    "expo-linear-gradient": "~13.0.2",
     "expo-status-bar": "~1.12.1",
+    "lottie-react-native": "^6.7.2",
+    "lottie-web": "^5.12.2",
     "react": "18.2.0",
-    "react-native": "0.74.3"
+    "react-dom": "18.2.0",
+    "react-lottie-player": "^2.1.0",
+    "react-native": "0.74.3",
+    "react-native-animatable": "^1.4.0",
+    "react-native-dropdown-picker": "^5.4.6",
+    "react-native-picker-select": "^9.2.0",
+    "react-native-web": "~0.19.10"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0"
